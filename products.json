@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Producto prueba 4",
+    "description": "Descripción del producto prueba 5",
+    "price": 300,
+    "thumbnail": "Sin Imagen",
+    "code": "P4",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P2",
+    "stock": 200
+  },
+  {
+    "id": 3,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P3",
+    "stock": 200
+  },
+  {
+    "id": 4,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P5",
+    "stock": 200
+  },
+  {
+    "id": 5,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P6",
+    "stock": 200
+  },
+  {
+    "id": 6,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P7",
+    "stock": 200
+  },
+  {
+    "id": 7,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P8",
+    "stock": 200
+  },
+  {
+    "id": 8,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P9",
+    "stock": 200
+  },
+  {
+    "id": 9,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P10",
+    "stock": 200
+  },
+  {
+    "id": 10,
+    "title": "Producto prueba 2",
+    "description": "Descripción del producto prueba 1",
+    "price": 200,
+    "thumbnail": "Sin Imagen",
+    "code": "P11",
+    "stock": 200
+  }
+]
